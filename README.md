@@ -1,10 +1,10 @@
- Blind-Nav---Android-App-for-Blind-persons
+ TriNetra ---Android-App-for-Blind-persons
 
 ![Asset 3](https://github.com/user-attachments/assets/d49f6059-cffb-4cef-93cb-886c1484e657)
 
  
 
-  ### ⭕ Blind Nav is an Android Application which helps the Blind people to navigate their surroundings and Environment just with the help of their Mobile Phones Camera and the Internet.
+  ### ⭕ TriNetra is an Android Application which helps the Blind people to navigate their surroundings and Environment just with the help of their Mobile Phones Camera and the Internet.
 
   
 
